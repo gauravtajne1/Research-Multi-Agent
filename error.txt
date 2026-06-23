@@ -1,0 +1,89 @@
+Title: War - latest news, breaking stories and comment - The Independent
+URL: https://www.the-independent.com/topic/war
+Snippet: War · <p>Ukrainians fire a 2S22 Bohdana howitzer on Russian positions 
+in the Donetsk region · Europe · Russia's war spending to exceed budget by 
+$28bn this year.
+
+----
+Title: War and conflict: Latest News and Updates
+URL: https://www.scmp.com/topics/war-and-conflict
+Snippet: The latest news, analysis and opinion on War and conflict. In-depth 
+analysis, industry insights and expert opinion.
+
+----
+Title: News | U.S. Department of War
+URL: https://www.war.gov/news
+Snippet: War Department Review to Ensure 'NATO 3.0' Becomes Europe-Led Defense 
+Alliance.
+
+----
+Title: Latest news on the U.S.-Israeli war with Iran
+URL: https://www.cbsnews.com/us-iran-tensions
+Snippet: The War with Iran. Ships continue to wait in Gulf of Oman for passage 
+through Strait of Hormuz. Live. U.S.-Iran talks in Switzerland put on hold.
+
+----
+Title: Iran War: Latest News, Live Coverage and Video
+URL: https://www.nbcnews.com/world/iran-war
+Snippet: Trump and Iran reach tentative deal to end war, reopen Hormuz. Global 
+markets soared after the tentative deal was announced, with a signing ceremony 
+set for
+
+BBC Skip to content British Broadcasting Corporation Home News US & Canada UK 
+UK Politics England N. Ireland N. Ireland Politics Scotland Scotland Politics 
+Wales Wales Politics Africa Asia China India Australia Europe Latin America 
+Middle East In Pictures BBC InDepth BBC Verify Football 2026 Sport Business 
+World of Business Technology of Business NYSE Opening Bell Technology 
+Artificial Intelligence Intelligence Revolution AI v the Mind Tech Now Health 
+Culture Film & TV Music Art & Design Style Books Entertainment News Arts Arts 
+in Motion Travel Destinations Africa Antarctica Asia Australia and Pacific 
+Caribbean & Bermuda Central America Europe Middle East North America South 
+America World’s Table Culture & Experiences Adventures The SpeciaList Earth 
+Science Natural Wonders Climate Solutions Sustainable Business Green Living 
+Audio Podcast Categories Radio Audio FAQs Video BBC Maestro Discover the World 
+Live Live News Live Sport Site search Home News Sport Football 2026 Business 
+Technology Health Culture Arts Travel Earth Audio Video Live Weather 
+Newsletters Error 404 - Oops, the page you're looking for is no longer here Try
+searching for it instead Site search We can't find the page you're looking for.
+If you've typed the URL into your browser, check that you entered it correctly.
+If you reached this page via our site or search, please let us know by emailing
+comhelp.bbc@bbc.com . Our team will investigate this feedback but will not 
+reply directly. More from BBC Just now Historic by-election win sends message 
+to Labour and SNP - Badenoch Kemi Badenoch hailed the Scottish Conservatives' 
+first by-election win since 1973, after the party took Aberdeen South from the 
+SNP. Just now Just now Northeast appointed Norwich Women head coach Norwich 
+City Women appoint Perry Northeast as their new head coach. Just now Just now 
+Teen charged over suspected homophobic attack The 17-year-old was charged with 
+attempted murder after the attack in Smethwick, police say. Just now Just now 
+Teen says he aimed to 'scare' girl before stabbing Boy, 16, on trial accused of
+the murder of nine-year-old Aria Thorpe gives evidence. Just now Just now Two 
+men jailed over Starmer-linked arson attacks Roman Lavrynovych 22, was jailed 
+for seven years and Stanislav Carpiuc, 27, for two. Just now Just now Cais i 
+herio cau Ysgol Meidrim wedi ei wrthod gan yr Uchel Lys Roedd ymgyrchwyr sy'n 
+ceisio achub yr ysgol wledig yn Sir Gaerfyrddin wedi gwneud cais am adolygiad 
+barnwrol. Just now Just now Girl, 18, dies after being hurt by loading vehicle 
+Detectives are urging people who witnessed the incident to come forward. Just 
+now 5 mins ago Real, raw and unfiltered? Authenticity helps female singers rule
+the charts Is the relatable style of Olivia Rodrigo, Olivia Dean and Lola Young
+changing pop music? 5 mins ago 6 mins ago Air search charity starts mental 
+health campaign The charity launches mental health campaign to avoid people 
+reaching crisis point. 6 mins ago
+
+ Enter a research topic:
+========================================
+Step 1 - Search agent is working...
+========================================
+
+ Search result Please specify the topic you want to find information about.
+
+========================================
+Step 2 - Reader agent is Scraping top resources...
+========================================
+Traceback (most recent call last):
+  File "C:\Users\himan\Desktop\Multi agent\pipeline.py", line 76, in <module>
+    run_research_pipeline(topic)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\himan\Desktop\Multi agent\pipeline.py", line 34, in run_research_pipeline
+    f"Search Results:\n{state['search-results'][:800]}"
+                        ~~~~~^^^^^^^^^^^^^^^^^^
+KeyError: 'search-results'

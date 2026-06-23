@@ -39,10 +39,9 @@ jsonschema>=4.25.0
 # Optional: Data Processing
 pandas>=2.3.0
 
-# Optional: Notebook Development
-jupyter>=1.1.1
-
 # Optional: API Deployment
 fastapi>=0.116.0
 uvicorn>=0.35.0
+
+streamlit>=1.46.0
 
